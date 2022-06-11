@@ -1,4 +1,5 @@
 
+
 <p align="center">
  
 </p align="center">
@@ -59,11 +60,16 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=OmkarTupe7&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
+
+<!-- <p align = "center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmkarTupe7&theme=radical&hide_border=true)](https://git.io/streak-stats)
+</p> -->
+
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=OmkarTupe7&theme=redical">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
