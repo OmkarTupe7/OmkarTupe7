@@ -1,4 +1,4 @@
-<h1 align="">Hi I'm OMKAR,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45"></h1>
+<h1 align="">Hey I'm OMKAR!,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45"></h1>
 <p align="center">
  
 </p align="center">
