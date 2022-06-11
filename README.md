@@ -1,18 +1,13 @@
 <h1 align="">Hey I'm OMKAR!,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45"></h1>
 <p align="center">
  
-</p align="center">
-<img src="https://i0.wp.com/ytimg.googleusercontent.com/vi/bmVKaAV_7-A/maxresdefault_live.jpg?resize=160,120" />
-
-
-<p align="center">
+<!--  "![Header](./omkar.png)" -->
  
-<!--  <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
-<!--  <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" /> --> 
+</p align="center">
+<img src="omkar.png?resize=160,220" />
 
-</p>
+
+
 
 <p align="center">
   I'm an intermediate web designer and python developer who is passionate about making contribution to open-source more approachable, to elevate people, and building communities. Some technologies I enjoy working with includes flutter, dart, solidity & Java. Apart from tech I am learning Data science also and also I am good at web3 development. In 2022, My interest in the Technical ecosystem with the connection and knowledge received from OpenSource and online communities led me to launch a Developer Students Club in our college. I am also core commity member of W3b bharat buidl hub community.
