@@ -1,10 +1,7 @@
 <h1 align="">Hey I'm OMKAR!,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45"></h1>
-<p align="center">
+
  
-<!--  "![Header](./omkar.png)" -->
- 
-</p align="center">
-<img src="omkar.png?resize=160,220" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Omkar header.png" />
 
 
 
